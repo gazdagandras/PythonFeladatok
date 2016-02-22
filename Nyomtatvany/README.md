@@ -12,6 +12,7 @@ A bekérendő adatok:
 Az alábbi formája legyen a nyomtatványnak:
 (a csupa nagybetűs szövegek helyére a bekért adatokat írjuk be!)
 
+```
 ======================================================
 Vezetéknév: VEZETÉKNÉV | Keresztnév: KERESZTNÉV
 ------------------------------------------------------
@@ -20,5 +21,5 @@ Személyi igazolvány száma: SZEMÉLYI
 Összeg: ÖSSZEG Ft
 ======================================================
 DÁTUM
-
+```
 
